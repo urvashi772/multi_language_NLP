@@ -1,0 +1,7 @@
+transformers==5.3.0
+torch
+pandas
+scikit-learn
+datasets
+streamlit
+accelerate
